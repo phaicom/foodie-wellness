@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "foods": "Food guide",
+    "meals": "Meal tracker",
+    "progress": "Progress",
+    "settings": "Settings",
+    "rules": "Food rulebook"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "estimated": "Estimated",
+    "loading": "Getting your space ready..."
+  },
+  "meal": {
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "snack": "Snacks"
+  }
+}
